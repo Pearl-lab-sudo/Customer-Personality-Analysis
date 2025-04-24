@@ -17,7 +17,7 @@ The dataset contains customer data including:
 - **Purchasing Behavior**: Amount spent, number of purchases via different channels.
 - **Campaign Response**: Binary label indicating response to a campaign (`general_response`).
 
-> *Note: Dataset source was provided as part of a learning project and may be anonymized or synthetic.*
+> *Note: Dataset source was downloaded from kaggle.*
 
 ## 🛠️ Tools & Technologies
 
